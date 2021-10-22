@@ -15,3 +15,10 @@ h1 {
 .h3-gold {
     color: rgb(179, 154, 15);
 }
+
+.boxed {
+    border: 2px solid #3c28f0;
+    border-radius: 25px;
+    padding: 20px;
+}
+  
